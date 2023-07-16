@@ -1,0 +1,1 @@
+# toggle-sidecar-shortcut-alfred
